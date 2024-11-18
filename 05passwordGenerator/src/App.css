@@ -1,0 +1,44 @@
+.heading{
+  width: 50%;
+  height: 20vh;
+  background-color:pink;
+  text-align: center;
+  color: purple;
+  margin-top: 100px;
+  margin-left: 400px;
+  padding: 5px;
+}
+
+.input{
+  width: 50%;
+  height: 5vh;
+}
+
+.copybtn{
+  width: 10%;
+  height: 5.6vh;
+  background-color: purple;
+  color: white;
+}
+
+.lastdiv{
+  background-color: yellow;
+  margin-top: 10px;
+  color: black;
+
+}
+
+.cursorpointer{
+margin-left: -40px;
+
+}
+
+.num{
+  margin-left: 40px;
+  
+}
+
+.char{
+  margin-left: 30px;
+  
+}
